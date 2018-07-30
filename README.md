@@ -3,6 +3,8 @@ Testing python
 
 This is a repository to test out Github as well and share what I've done in Python.
 
+CHECK THE WIKI FOR ADDITIONAL INFORMATION
+
 NflData are three graphs created from using Seaborn module from public NFL data that is labeled week1.csv.
 
 TeradataExample is testing the connection to Teradata using the Teradata module, pulling tables and information
